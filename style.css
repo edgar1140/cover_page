@@ -16,6 +16,7 @@ h1 {
 
 p {
     color: rgb(67, 117, 243);
+    font-family: 'Sedgwick Ave Display', cursive;
     font-size: 200%;
 }
 
@@ -25,4 +26,36 @@ li {
 }
 li.coming-soon {
     visibility: hidden;
+}
+
+img {
+    width: 100%;
+}
+
+.gas {
+    float: right;
+}
+.store {
+    float: right;
+}
+.panel-heading {
+    color: rgba(0, 68, 255, 0.76);
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 200%;
+}
+
+.panel .panel-heading {
+    color: rgba(0, 68, 255, 0.76);
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 300%;
+    background-color: rgba(46, 241, 241, 0.66);
+}
+.panel-body {
+    color: rgba(0, 255, 21, 0.76);
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 300%;
+    background-color: rgba(253, 1, 236, 0.66);
+}
+.panel-title {
+    font-size: 200%;
 }
