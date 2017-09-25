@@ -1,10 +1,3 @@
-body {
-    /* background-image: url('http://hottytoddy.com/wp-content/uploads/2016/04/Base-Camp_classroom.jpg');
-    min-height: 100%;
-    min-width: 100%;
-    background-size: 120%; */
-}
-
 h1 {
     font-family: 'Sedgwick Ave Display', cursive;
     color: #675ff1;
@@ -19,6 +12,11 @@ p {
     font-family: 'Sedgwick Ave Display', cursive;
     font-size: 200%;
 }
+p1 {
+    color: rgb(243, 67, 199);
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 200%;
+}
 
 li {
     display: inline;
@@ -30,6 +28,15 @@ li.coming-soon {
 
 img {
     width: 100%;
+}
+#school {
+    width: 25%;
+}
+#football {
+    width: 25%;
+}
+#bcca {
+    width: 30%;
 }
 
 .gas {
@@ -58,4 +65,18 @@ img {
 }
 .panel-title {
     font-size: 200%;
+}
+
+.p-heading {
+    color: rgba(1, 253, 219, 0.66);
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 100%;
+    background-color: rgba(0, 255, 255, 0.76);
+}
+
+.p-info {
+    color: rgba(0, 255, 221, 0.76);
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 100%;
+    background-color: rgba(1, 253, 211, 0.66);
 }
