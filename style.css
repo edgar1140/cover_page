@@ -1,20 +1,20 @@
 h1 {
-    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Oswald', sans-serif, 'PT Sans Caption', sans-serif;
     color: #675ff1;
     font-size: 500%;
-    background-color: rgba(241, 46, 225, 0.66);
+    background-color: rgba(148, 134, 147, 0.904);
     width: 100%;
     padding: 15px;
 }
 
 p {
     color: rgb(67, 117, 243);
-    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Oswald', sans-serif, 'PT Sans Caption', sans-serif;
     font-size: 200%;
 }
 p1 {
-    color: rgb(243, 67, 199);
-    font-family: 'Sedgwick Ave Display', cursive;
+    color: rgba(148, 134, 147, 0.904);
+    font-family: 'Oswald', sans-serif, 'PT Sans Caption', sans-serif;
     font-size: 200%;
 }
 
@@ -30,13 +30,13 @@ img {
     width: 100%;
 }
 #school {
-    width: 25%;
+    width: 100%;
 }
 #football {
-    width: 25%;
+    width: 100%;
 }
 #bcca {
-    width: 30%;
+    width: 100%;
 }
 
 .gas {
@@ -47,36 +47,36 @@ img {
 }
 .panel-heading {
     color: rgba(0, 68, 255, 0.76);
-    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Oswald', sans-serif, 'PT Sans Caption', sans-serif;
     font-size: 200%;
 }
 
 .panel .panel-heading {
     color: rgba(0, 68, 255, 0.76);
-    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Oswald', sans-serif, 'PT Sans Caption', sans-serif;
     font-size: 300%;
-    background-color: rgba(46, 241, 241, 0.66);
+    background-color: rgb(253, 253, 253);
 }
 .panel-body {
-    color: rgba(0, 255, 21, 0.76);
-    font-family: 'Sedgwick Ave Display', cursive;
+    color: rgba(254, 255, 254, 0.986);
+    font-family: 'Oswald', sans-serif, 'PT Sans Caption', sans-serif;
     font-size: 300%;
-    background-color: rgba(253, 1, 236, 0.66);
+    background-color: rgba(148, 134, 147, 0.904);
 }
 .panel-title {
     font-size: 200%;
 }
 
 .p-heading {
-    color: rgba(1, 253, 219, 0.66);
-    font-family: 'Sedgwick Ave Display', cursive;
+    color: rgb(253, 253, 253);
+    font-family: 'Oswald', sans-serif, 'PT Sans Caption', sans-serif;
     font-size: 100%;
-    background-color: rgba(0, 255, 255, 0.76);
+    background-color: rgb(253, 253, 253);
 }
 
 .p-info {
-    color: rgba(0, 255, 221, 0.76);
-    font-family: 'Sedgwick Ave Display', cursive;
+    color: rgb(253, 253, 253);
+    font-family: 'Oswald', sans-serif, 'PT Sans Caption', sans-serif;
     font-size: 100%;
-    background-color: rgba(1, 253, 211, 0.66);
+    background-color: rgb(253, 253, 253);
 }
